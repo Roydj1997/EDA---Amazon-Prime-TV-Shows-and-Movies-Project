@@ -1,4 +1,4 @@
-# EDA---Amazon-Prime-TV-Shows-and-Movies-Project
+# Exploratory Data Analysis of Amazon Prime TV Shows and Movies using Python.
 
 
 # 📺 Amazon Prime TV Shows & Movies - Exploratory Data Analysis (EDA)
